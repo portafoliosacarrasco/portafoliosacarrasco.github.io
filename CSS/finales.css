@@ -1,0 +1,34 @@
+body {
+    background-color: #17202a;
+    color: rgb(225,225,255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.fondo {
+    background-color: #283747;
+    max-width: 80%;
+    margin: 0 auto;
+}
+h1, p, h2, h3, li {
+    padding-left: 5px;
+}
+h1, h2, h3{
+    text-align: center;
+}
+.destacado {
+    background-color: rgba(219, 219, 10, 0.435);
+    display: inline;
+    padding: 1px;
+}
+.enunciado {
+    display: inline;
+    margin-left: 5px;
+}
+hr {
+    color: beige;
+}
+.subtitulo {
+    text-align: center;
+    background-color: rgba(219, 122, 10, 0.514);
+    max-width: 35%;
+    margin: 0 auto;
+}
